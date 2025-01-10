@@ -1,8 +1,8 @@
-C:\Users\Raul\OneDrive\Escritorio\CBDF_RCA_ProyectoFinal\wcbdf-adl-api-expenses\src\main\java\com\upiiz\discounts\config\OpenApiConfiguration.java
-C:\Users\Raul\OneDrive\Escritorio\CBDF_RCA_ProyectoFinal\wcbdf-adl-api-expenses\src\main\java\com\upiiz\discounts\config\SecurityConfig.java
-C:\Users\Raul\OneDrive\Escritorio\CBDF_RCA_ProyectoFinal\wcbdf-adl-api-expenses\src\main\java\com\upiiz\discounts\controller\DiscountController.java
-C:\Users\Raul\OneDrive\Escritorio\CBDF_RCA_ProyectoFinal\wcbdf-adl-api-expenses\src\main\java\com\upiiz\discounts\entities\Discount.java
-C:\Users\Raul\OneDrive\Escritorio\CBDF_RCA_ProyectoFinal\wcbdf-adl-api-expenses\src\main\java\com\upiiz\discounts\ProyectoFinalApplication.java
-C:\Users\Raul\OneDrive\Escritorio\CBDF_RCA_ProyectoFinal\wcbdf-adl-api-expenses\src\main\java\com\upiiz\discounts\repository\DiscountRepository.java
-C:\Users\Raul\OneDrive\Escritorio\CBDF_RCA_ProyectoFinal\wcbdf-adl-api-expenses\src\main\java\com\upiiz\discounts\responses\CustomResponse.java
-C:\Users\Raul\OneDrive\Escritorio\CBDF_RCA_ProyectoFinal\wcbdf-adl-api-expenses\src\main\java\com\upiiz\discounts\services\DiscountService.java
+C:\Users\Raul\OneDrive\Escritorio\CBDF_RCA_ProyectoFinal\wcbdf-rca-discounts\src\main\java\com\upiiz\discounts\config\OpenApiConfiguration.java
+C:\Users\Raul\OneDrive\Escritorio\CBDF_RCA_ProyectoFinal\wcbdf-rca-discounts\src\main\java\com\upiiz\discounts\config\SecurityConfig.java
+C:\Users\Raul\OneDrive\Escritorio\CBDF_RCA_ProyectoFinal\wcbdf-rca-discounts\src\main\java\com\upiiz\discounts\controller\DiscountController.java
+C:\Users\Raul\OneDrive\Escritorio\CBDF_RCA_ProyectoFinal\wcbdf-rca-discounts\src\main\java\com\upiiz\discounts\entities\Discount.java
+C:\Users\Raul\OneDrive\Escritorio\CBDF_RCA_ProyectoFinal\wcbdf-rca-discounts\src\main\java\com\upiiz\discounts\ProyectoFinalApplication.java
+C:\Users\Raul\OneDrive\Escritorio\CBDF_RCA_ProyectoFinal\wcbdf-rca-discounts\src\main\java\com\upiiz\discounts\repository\DiscountRepository.java
+C:\Users\Raul\OneDrive\Escritorio\CBDF_RCA_ProyectoFinal\wcbdf-rca-discounts\src\main\java\com\upiiz\discounts\responses\CustomResponse.java
+C:\Users\Raul\OneDrive\Escritorio\CBDF_RCA_ProyectoFinal\wcbdf-rca-discounts\src\main\java\com\upiiz\discounts\services\DiscountService.java
